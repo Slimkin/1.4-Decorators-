@@ -12,4 +12,3 @@ test2 - название функции
 generator - название функции
 ('E:\\4git\\1.4 «Decorators»\\1.4-Decorators-\\log.txt',){} - аргументы функции
 <generator object generator at 0x02A2DA38> - результат функции
-

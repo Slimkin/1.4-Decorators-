@@ -12,5 +12,5 @@ if __name__ == "__main__":
 
 
     for i, line in enumerate(generator('E:\\4git\\1.4 «Decorators»\\1.4-Decorators-\\log.txt'), 1):
-        return (f'{i} - {line}')
+        print(f'{i} - {line}')
     
